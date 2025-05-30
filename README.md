@@ -108,4 +108,4 @@ We welcome contributions! Feel free to fork the repo, open issues, or submit pul
 
 ## 📄 License
 
-MIT License. See `LICENSE` file for details.
+This project is licensed under the MIT License 
